@@ -16,6 +16,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
+# Here is the demonstration of the app screens - 
+
+[![Watch the video](https://img.youtube.com/vi/iwWlBIWw7dA/maxresdefault.jpg)](https://www.youtube.com/shorts/iwWlBIWw7dA)
+
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
